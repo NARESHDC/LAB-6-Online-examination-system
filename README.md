@@ -1,4 +1,3 @@
-
 # LAB-6-Online-examination-system
 ### AIM:
 To develop the Exam Registration System using Star UML tools.
